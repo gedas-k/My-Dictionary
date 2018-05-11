@@ -1,8 +1,12 @@
 {
-  "name": "My Dictionary-client",
+  "name": "my_dictionary-client",
   "version": "1.0.0",
   "description": "Client side of My Dictionary app",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gedas-k/my-dictionary"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
